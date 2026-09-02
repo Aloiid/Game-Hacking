@@ -6,7 +6,7 @@
 
 ---
 
-But : premier test en game hacking ave cun code externe qui va trouver l'adresse statique de la variable Health et écrire dedans avec `WriteProcessMemory` pour être invincible.
+But : premier test en game hacking ave un code externe qui va trouver l'adresse statique de la variable Health et écrire dedans avec `WriteProcessMemory` pour être invincible.
 
 ## Méthodologie
 
